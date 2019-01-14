@@ -59,3 +59,9 @@ These are meant to be 1:1 copies of what is done in the video. If you found a be
 The starter files + solutions will be updated if/when the videos are updated.
 
 Thanks!
+
+
+## TOC
+
+  * [Day-1](https://xepp27.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/index-FINISHED.html)
+  
